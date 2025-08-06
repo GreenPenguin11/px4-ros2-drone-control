@@ -13,5 +13,5 @@ ROS2 nodes for PX4 drone offboard hover control with arm/disarm and slightly dub
 
   _These nodes were developed collaboratively with my teammates. The first implements obstacle avoidance logic using real-time distance sensor data, while the second is console-driven._
 
-  These versions are also not the final ones used in the final flight.
+  Note: These versions are also not the final ones used in the final flight.
 
